@@ -24,3 +24,9 @@ def draw(turtle, size=400):
 def draw_capital(turtle, size=400):
     '''Draw uppercase letter'''
     draw(turtle, size)  # change this
+
+if __name__ == '__main__':
+    import turtle
+    t = turtle.Turtle()
+    t.penup()
+    draw(t)
