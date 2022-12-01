@@ -22,3 +22,13 @@ Deze zal daarna ge-importeerd worden in een "main" python bestand om alle namen 
 - Julien Peeters → J
 
 ## Overige letters
+
+- '
+- S
+- F
+- H
+- I
+- T
+- L
+- Z
+- U
