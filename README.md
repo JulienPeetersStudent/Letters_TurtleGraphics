@@ -1,5 +1,10 @@
 # Letters_TurtleGraphics
 
+## Plan
+
+Iedereen is verantwoordelijk voor hun letter in een ***apart*** python bestand; bv. "E.py".
+Deze zal daarna ge-importeerd worden in een "main" python bestand om alle namen uit te schrijven.
+
 ## letter lijst
 
 - Mohamed Elhajioui → M
@@ -14,3 +19,6 @@
 - Ahmet Kurtoglu → A
 - Nando Coomans → O
 - Rizwaan Nazem → R
+- Julien Peeters → J
+
+## Overige letters
