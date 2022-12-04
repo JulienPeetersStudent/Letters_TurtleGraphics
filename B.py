@@ -2,7 +2,7 @@ import turtle
 
 scrn = turtle.Screen()
 pen = turtle.Turtle()
-pen.pencolor('green')
+pen.pencolor('red')
 pen.pensize(3)
 pen.penup()
 pen.backward(50)
