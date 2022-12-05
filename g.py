@@ -7,10 +7,14 @@ def G():
     t.pendown()
     t.pensize(10)
     t.pencolor("green")
-    t.circle(75,-190,100)
+    t.circle(75,-180,100)
     t.penup()
     t.goto(-50,50)
-    #t.
+    t.pendown()
+    t.right(90)
+    t.forward(60)
+    t.left(90)
+    t.forward(30)
 
 
 G()
