@@ -20,6 +20,8 @@ Deze zal daarna ge-importeerd worden in een "main" python bestand om alle namen 
 - Nando Coomans → O
 - Rizwaan Nazem → R
 - Julien Peeters → J
+- Dieter → I
+- Yoeri → Z
 
 ## Overige letters
 
@@ -27,8 +29,6 @@ Deze zal daarna ge-importeerd worden in een "main" python bestand om alle namen 
 - S
 - F
 - H
-- I
 - T
 - L
-- Z
 - U
